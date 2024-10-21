@@ -27,10 +27,15 @@ PCa Status: Binary variable indicating the presence or absence of prostate cance
 The analysis involved the following steps:
 
 - Data Visualization: Visualizations of the distribution of serum biomarker data across all subjects, including boxplots and correlation matrices.
+  
 - Single Logistic Regression: Each biomarker was individually assessed as a predictor variable to evaluate its significance in predicting PCa status.
-- Multiple Logistic Regression: Various pairwise combinations of biomarkers were tested to determine the optimal model for predicting PCa status.
+  
+- Multiple Logistic Regression: Various pairwise combinations of biomarkers were tested to determine the optimal model for predicting PCa status.\
+  
 -  Area Under the Curve (AUC): AUC was calculated to evaluate the model's ability to discriminate between positive and negative cases. A higher AUC indicates better model performance.
+  
 - 10-Fold Cross-Validation: This method was employed to assess the model's robustness and to prevent overfitting. By dividing the dataset into ten subsets, the model was trained on nine and tested on the remaining one, ensuring that every data point was used for both training and validation.
+  
 - Likelihood Ratio Test (LRT): LRT was utilized to compare the goodness-of-fit between nested models. This test helps to determine whether adding predictors (e.g., PVT1 markers) significantly improves the model's performance compared to a simpler model (e.g., PSA alone).
 
 ## Results
