@@ -6,21 +6,9 @@ Prostate cancer (PCa) is the second leading cause of cancer-related deaths among
 ## Objective
 
 The main objectives of this study are:
-- To assess the predictive capabilities of PVT1 exons 4A, 4B, and 9 alongside PSA in detecting prostate cancer from human serum.
+- To assess the predictive capabilities of PVT1 alongside PSA in detecting prostate cancer from human serum.
 - To improve the specificity of PSA screening methods to reduce unnecessary biopsies.
 
-## Data Description
-The dataset includes serum biomarker measurements from men, specifically:
-
-PSA: Serum prostate-specific antigen levels.
-
-PVT1 Exon 4A: Level of PVT1 exon 4A in serum.
-
-PVT1 Exon 4B: Level of PVT1 exon 4B in serum.
-
-PVT1 Exon 9: Level of PVT1 exon 9 in serum.
-
-PCa Status: Binary variable indicating the presence or absence of prostate cancer.
 
 ## Methodology
 
