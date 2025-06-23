@@ -1,5 +1,8 @@
 # Enhanced Prediction of Prostate Cancer Using PVT1 Biomarkers and PSA
 
+## Research Publication
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242641
+
 ## Introduction
 Prostate cancer (PCa) is the second leading cause of cancer-related deaths among men in the United States. Current screening methods primarily utilize prostate-specific antigen (PSA), which has high sensitivity for early detection but suffers from low specificity, leading to over-diagnosis and unnecessary biopsies. This study evaluates the predictive power of Plasmacytoma variant translocation 1 (PVT1) exons 4A, 4B, and 9, which are overexpressed in prostate tissues and human serum, in conjunction with PSA to improve the specificity of prostate cancer detection.
 
